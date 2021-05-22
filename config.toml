@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Trusted Computing & Decentralized Identity"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/verbeeckorama/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/hverbeeck/"}
+  ]
+
+  [params]
+  description = "Hans Verbeeck"
+  themeColor = "theme-base-00"
+  layoutReverse = true
+
