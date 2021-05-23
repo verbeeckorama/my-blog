@@ -9,7 +9,7 @@ theme = "hyde"
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/hverbeeck/"}
   ]
 
-  [params]
+[params]
   description = "Hans Verbeeck"
   themeColor = "theme-base-00"
   layoutReverse = true
